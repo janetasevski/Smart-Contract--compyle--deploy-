@@ -1,1 +1,1 @@
-# Smart Contract compile and deploy boilerplate
+# Smart Contract compile and deploy tool
